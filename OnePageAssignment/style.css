@@ -1,0 +1,46 @@
+
+
+.navigation { 
+background-color: lightgray;
+}
+
+.navbutton {
+    width: 200px;
+    text-align: center;
+    display: inline-block;
+    padding: 15px;
+    background-color: rgb(73, 73, 73);
+    color: white;
+  
+
+}
+
+.leftdiv{
+    float: left;
+    width: 30%;
+    height: 1000px;
+    background-color: blue;
+
+}
+
+.rightdiv{
+    float:right;
+    width:70%;
+    height: 1000px;
+    background-color: teal;
+
+}
+
+.upperleftdiv{
+height: 250px;
+background-color: orange;
+}
+
+.header {
+    font-weight: bold;
+
+}
+.lowerleftdiv{
+    padding: 30px;
+
+}
